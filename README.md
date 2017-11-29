@@ -61,17 +61,17 @@
 
 
 ## 参考技能关键字
-- javascript(596)
-- css(555)
-- html(430)
-- jquery(323)
-- html5(312)
-- js(311)
-- ajax(196)
-- css3(176)
-- bootstrap(43)
-- webapp(12)
-- zepto(5)
+- javascript
+- css
+- html
+- jquery
+- html5
+- js
+- ajax
+- css3
+- bootstrap
+- webapp
+- zepto
 
 ---
 
